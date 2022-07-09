@@ -1,4 +1,4 @@
-_Список библиотек: matplotlib.pyplot, Numpy, Pandas, seaborn, statsmodels.api, time, Pool, CatBoostRegressor, DummyRegressor LinearRegression, Lasso, Ridge, LassoCV, RidgeCV, mean_squared_error, train_test_split, GridSearchCV, TimeSeriesSplit, DecisionTreeRegressor seasonal_decompose _
+*Список библиотек: matplotlib.pyplot, Numpy, Pandas, seaborn, statsmodels.api, time, Pool, CatBoostRegressor, DummyRegressor LinearRegression, Lasso, Ridge, LassoCV, RidgeCV, mean_squared_error, train_test_split, GridSearchCV, TimeSeriesSplit, DecisionTreeRegressor seasonal_decompose*
 
 __Проект__
 
